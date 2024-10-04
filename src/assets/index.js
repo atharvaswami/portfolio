@@ -37,6 +37,7 @@ import tensorflow from "./tech/tensorflow.png";
 import powerbi from "./tech/powerbi.png";
 import sql from "./tech/sql.png";
 
+import apple from "./company/apple.jpg";
 import dotpe from "./company/dotpe.png";
 import tcs from "./company/tcs.png";
 import sanvira from "./company/sanvira.png";
@@ -86,6 +87,7 @@ export {
   tensorflow,
   powerbi,
   sql,
+  apple,
   dotpe,
   tcs,
   sanvira,

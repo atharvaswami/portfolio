@@ -31,6 +31,7 @@ import {
   tensorflow,
   powerbi,
   sql,
+  apple,
   dotpe,
   tcs,
   sanvira,
@@ -133,6 +134,19 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "HW Tech Engineering Program Management Intern",
+    company_name: "Apple Inc.",
+    icon: apple,
+    iconBg: "#E6DEDD",
+    date: "May 2024 - Aug 2024",
+    points: [
+      "Collaborating with Engineering Program Management team to design data analytics tools for Apple Silicon/IP projects, focusing on heat map generation for Tapeout Roadmap and burndown charts and dashboard automation using Tableau.",
+      "Creating web apps for various projects like Calendar management for milestones, Jira automation, and Radar Automation using Python framework Flask, and a GUI using HTML, CSS, Javascript.",
+      "Integrated Apple Connect for security and Apple Directory search for finding Users or getting Management Levels and Functional Teams in some of the web apps projects.",
+      "Participated in the interns Capture the Flag hacking competition.",
+    ],
+  },
   {
     title: "Full-Stack Software Engineering Intern",
     company_name: "DotPe",
